@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732190439747",
+    "project_id": "calltofix-9d809",
+    "storage_bucket": "calltofix-9d809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732190439747:android:84502a383fb4ce3bffd7f6",
+        "android_client_info": {
+          "package_name": "com.example.calltofix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732190439747-tvvl35tn5qattdl49mpdof03lhgelqpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG37KbGlPV4ZjUS0yIRtrGxamsoU1_lHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732190439747-tvvl35tn5qattdl49mpdof03lhgelqpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
